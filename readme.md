@@ -1,4 +1,4 @@
-# Bankist-Website
+# Bankist Website
 
 Bankist is a minimalist banking website that offers a simple and modern banking experience. It provides essential banking features, seamless operations, and user-friendly interfaces. 
 
